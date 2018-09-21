@@ -1,7 +1,7 @@
 # FKCImageService
 
 #### 项目介绍
-Node.js图片上传服务
+疯狂猜图片上传服务
 
 #### 软件架构
 基于express、multer
