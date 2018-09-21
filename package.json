@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start:test": "cross-env env_config=test node ./app.js",
+    "start": "cross-env env_config=test node ./app.js",
     "start:prod": "cross-env env_config=prod pm2 start ./app.js -n fkcimageservice"
   },
   "author": "",
